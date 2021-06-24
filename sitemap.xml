@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wecareclub.github.io/2021/01/16/We-Care-Club/We-Care-Club/</loc>
+    
+    <lastmod>2021-06-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wecareclub.github.io/Contact%20&%20Sign%20Up/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/2021/01/16/We-Care-Club/We-Care-Club/</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wecareclub.github.io/2021/06/23/Animal-Care-Project/</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -111,7 +111,7 @@
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/categories/Activities-Community-Service/Lumio-Education/</loc>
+    <loc>http://wecareclub.github.io/categories/We-Care/</loc>
     <lastmod>2021-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -125,14 +125,14 @@
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/categories/We-Care/</loc>
+    <loc>http://wecareclub.github.io/categories/Activities-Community-Service/Animal-Care-Project/</loc>
     <lastmod>2021-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/categories/Activities-Community-Service/Animal-Care-Project/</loc>
+    <loc>http://wecareclub.github.io/categories/Activities-Community-Service/Lumio-Education/</loc>
     <lastmod>2021-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
