@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wecareclub.github.io/2021/01/23/We-Care-Psychology-Lessons/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wecareclub.github.io/2021/01/30/Lumio-Education/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wecareclub.github.io/2021/01/30/We-Care-Club/We-Care-Club/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wecareclub.github.io/2021/01/30/Teens-Teach-Technology/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wecareclub.github.io/We%20Care%20Psychology/index.html</loc>
     
     <lastmod>2021-09-12</lastmod>
@@ -23,37 +51,9 @@
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/2021/06/23/Lumio-Education/</loc>
-    
-    <lastmod>2021-09-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wecareclub.github.io/Contact%20&%20Sign%20Up/index.html</loc>
     
     <lastmod>2021-09-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wecareclub.github.io/2021/01/16/We-Care-Club/We-Care-Club/</loc>
-    
-    <lastmod>2021-07-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wecareclub.github.io/2021/06/23/We-Care-Psychology-Lessons/</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wecareclub.github.io/2021/06/23/Teens-Teach-Technology/</loc>
-    
-    <lastmod>2021-06-24</lastmod>
     
   </url>
   
@@ -90,28 +90,21 @@
 
   
   <url>
-    <loc>http://wecareclub.github.io/public/categories/Activities-Community-Service/</loc>
+    <loc>http://wecareclub.github.io/public/categories/Lumio-Education/</loc>
     <lastmod>2021-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/public/categories/Activities-Community-Service/Lumio-Education/</loc>
+    <loc>http://wecareclub.github.io/public/categories/Teens-Teach-Technology/</loc>
     <lastmod>2021-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wecareclub.github.io/public/categories/We-Care/</loc>
-    <lastmod>2021-09-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wecareclub.github.io/public/categories/Activities-Community-Service/Teens-Teach-Technology/</loc>
+    <loc>http://wecareclub.github.io/public/categories/We-Care-Psychology-Lessons/</loc>
     <lastmod>2021-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
